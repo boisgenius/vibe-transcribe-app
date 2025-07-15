@@ -1,5 +1,5 @@
 {
-  "name": "whisper-transcription-app",
+  "name": "vibe-transcribe-app",
   "version": "1.0.0",
   "main": "server/app.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "Local audio transcription app using OpenAI Whisper",
+  "description": "🌈 Vibe Transcribe - Local audio transcription app with modern gradient UI using OpenAI Whisper",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.0",

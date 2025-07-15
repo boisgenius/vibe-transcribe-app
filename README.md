@@ -1,6 +1,6 @@
-# Whisper Audio Transcription App
+# 🌈 Vibe Transcribe App
 
-A local web application for audio transcription using OpenAI's Whisper model. Runs completely offline without any cloud API usage.
+A vibrant local web application for audio transcription using OpenAI's Whisper model. Features a modern gradient UI inspired by brands like Vercel and Linear. Runs completely offline without any cloud API usage.
 
 ## Features
 
@@ -118,7 +118,7 @@ Some audio formats may not show real-time progress. The transcription is still r
 ## File Structure
 
 ```
-whisper-transcription-app/
+vibe-transcribe-app/
 ├── server/
 │   └── app.js           # Express server
 ├── public/
