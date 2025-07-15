@@ -1,0 +1,22 @@
+{
+  "name": "vibe-transcribe-app",
+  "version": "1.0.0",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "dev": "nodemon server/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "🌈 Vibe Transcribe - Local audio transcription app with modern gradient UI using OpenAI Whisper",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "multer": "^2.0.1",
+    "pdfkit": "^0.17.1",
+    "uuid": "^11.1.0"
+  }
+}

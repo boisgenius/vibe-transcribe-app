@@ -24,26 +24,6 @@ test-audio/
 # macOS
 .DS_Store
 .DS_Store?
-.AppleDouble
-.LSOverride
-Icon
-._*
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
-
-# App bundles (source code only, not built apps)
-*.app/
-
-# Build artifacts
-*.tar.gz
-*.zip
-*.dmg
-*.pkg
 
 # Windows
 Thumbs.db
@@ -63,17 +43,9 @@ Desktop.ini
 # Temporary files
 *.tmp
 *.temp
-temp_*
 
 # Process IDs
 *.pid
 *.seed
 *.pid.lock
-
-# Generated icons
-icon.iconset/
-vibe_icon.svg.png
-
-# Package manager lock files (optional - some prefer to include these)
-# package-lock.json
-# yarn.lock
+EOF < /dev/null
